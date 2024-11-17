@@ -42,11 +42,11 @@ After logging in to CentOS, open a terminal to start using the command line.
 6. View the Content of the Hostname File: cat /etc/hostname
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/da84994d-8755-4ec9-a372-69a5e2575646)
+![image](https://github.com/user-attachments/assets/73a3d672-907b-41d4-9d6f-2b2869fdf41b)
+
 ### REG NUMBER: 212222110024
 ### NAME:MATHESWARN K
-![alt text](<Screenshot 2024-11-15 103749.png>)
-![alt text](<Screenshot 2024-11-15 103848.png>)
-
 ## RESULT
 Thus, The installation of CentOS on a virtual machine using VirtualBox or VMware, providing a fully functional CentOS environment for testing and development is successfully executed.
  
